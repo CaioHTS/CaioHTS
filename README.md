@@ -4,7 +4,9 @@ CaioHTS | 15
 <br>
 
 ## 🌌 Discord Profile
-<a href="https://discord.com/users/977654827133853747" target="_blank"><img width="40%" src="https://lanyard.cnrad.dev/api/977654827133853747" alt="CaioHTS profile on discord"></a>
+<a href="https://discord.com/users/977654827133853747" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/977654827133853747" width="40%" alt="CaioHTS profile on discord">
+</a>
 
 <br>
  
