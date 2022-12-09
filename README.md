@@ -4,9 +4,7 @@ CaioHTS | 15
 <br>
 
 ## 🌌 Discord Profile
-<a href="https://discord.com/users/977654827133853747" target="_blank">
-    <img src="https://imgur.com/DqkkJgh" width="50%" alt="CaioHTS profile on discord"/>
-</a>
+CaioHTS#9414
 
 <br>
  
