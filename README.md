@@ -1,12 +1,1 @@
-## 👋 Hi there
-CaioHTS | 15
-
-<br>
-
-## 🌌 Discord Profile
-CaioHTS#9414
-
-<br>
- 
- ## 📊 Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioHTS&show_icons=true&hide_border=true" alt="CaioHTS github stats"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHTS&layout=compact&hide_border=true" alt="CaioHTS language stats"/>
+![CaioHTS](https://user-images.githubusercontent.com/106452380/215349755-3e62ed6e-36ca-466b-966e-fa46f56a8376.png)
