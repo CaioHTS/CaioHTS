@@ -1,8 +1,8 @@
 # Caio Henrique
 
-[<img src='assets/YouTube.svg' alt='YouTube' target='_blank'>](https://www.youtube.com/@caiohts)
-[<img src='assets/Twitch.svg' alt='Twitch' target='_blank'>](https://www.twitch.tv/caiohts/)
-[<img src='assets/Discord.svg' alt='Discord' target='_blank'>](https://discord.com/users/1053376288926208072/)
+<a href='https://www.youtube.com/@caiohts/'><img src='assets/YouTube.svg' alt='YouTube'></a>
+<a href='https://www.twitch.tv/caiohts/'><img src='assets/Twitch.svg' alt='Twitch'></a>
+<a href='https://discord.com/users/1053376288926208072/'><img src='assets/Discord.svg' alt='Discord'></a>
 
 High school student and developer by hobby.
 
